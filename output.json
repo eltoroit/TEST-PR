@@ -1,0 +1,286 @@
+{
+  "groups": [
+    {
+      "Name": "ARC101 Sep. 8th",
+      "isOpen": true,
+      "credentials": [
+        {
+          "Name": "ARC101-15780",
+          "SfName": "admin@arc101.15780.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15781",
+          "SfName": "admin@arc101.15781.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15782",
+          "SfName": "admin@arc101.15782.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15783",
+          "SfName": "admin@arc101.15783.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15784",
+          "SfName": "admin@arc101.15784.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15785",
+          "SfName": "admin@arc101.15785.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15786",
+          "SfName": "admin@arc101.15786.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15787",
+          "SfName": "admin@arc101.15787.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15788",
+          "SfName": "admin@arc101.15788.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15789",
+          "SfName": "admin@arc101.15789.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15790",
+          "SfName": "admin@arc101.15790.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15791",
+          "SfName": "admin@arc101.15791.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15792",
+          "SfName": "admin@arc101.15792.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15793",
+          "SfName": "admin@arc101.15793.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15794",
+          "SfName": "admin@arc101.15794.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15795",
+          "SfName": "admin@arc101.15795.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15796",
+          "SfName": "admin@arc101.15796.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15797",
+          "SfName": "admin@arc101.15797.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15798",
+          "SfName": "admin@arc101.15798.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15799",
+          "SfName": "admin@arc101.15799.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15800",
+          "SfName": "admin@arc101.15800.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15801",
+          "SfName": "admin@arc101.15801.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        },
+        {
+          "Name": "ARC101-15802",
+          "SfName": "admin@arc101.15802.com",
+          "Password": "password@1234",
+          "GroupId": "00d853a6-3a05-4303-8f98-4059dc1fd53c",
+          "Type": {
+            "Id": "Production",
+            "Domain": "https://login.salesforce.com/",
+            "LP": "HOME",
+            "landingPageOtherUrl": ""
+          }
+        }
+      ]
+    }
+  ]
+}
